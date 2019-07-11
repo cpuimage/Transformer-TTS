@@ -8,7 +8,7 @@ Model
 
 Centaur is hand-designed encoder-decoder model based on the [Neural
 Speech Synthesis with Transformer
-Network](https://arxiv.org/pdf/1809.08895.pdf) and [Deep Voic e3](https://arxiv.org/pdf/1710.07654.pdf) papers.
+Network](https://arxiv.org/pdf/1809.08895.pdf) and [Deep Voice3](https://arxiv.org/pdf/1710.07654.pdf) papers.
 
 ![Centaur Model](centaur.png)
 
@@ -75,5 +75,5 @@ References
 # Donating
 If you found this project useful, consider buying me a coffee
 
-<a href="https://img2018.cnblogs.com/blog/824862/201809/824862-20180930223603138-1708589189.png" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<img src="https://img2018.cnblogs.com/blog/824862/201809/824862-20180930223603138-1708589189.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" >
  
